@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+.left{
+    display: flex;
+    width: 60%;
+    height: 100%;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.right{
+    display: flex;
+    width: 40%;
+    height: 100%;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
